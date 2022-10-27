@@ -831,3 +831,9 @@ B.	10 days
 C.	15days
 D.	20 days
 Answer: Option A
+19.Two pipes A and B can fill a cistern in 37 minutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if the B is turned off after:
+
+A.	5 min.
+B.	9 min.
+C.	10 min.
+D.	15 min.
